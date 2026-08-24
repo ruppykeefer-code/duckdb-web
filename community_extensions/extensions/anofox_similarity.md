@@ -75,8 +75,8 @@ docs:
 
 extension_star_count: 2
 extension_star_count_pretty: 2
-extension_download_count: 478
-extension_download_count_pretty: 478
+extension_download_count: 338
+extension_download_count_pretty: 338
 image: '/images/community_extensions/social_preview/preview_community_extension_anofox_similarity.png'
 layout: community_extension_doc
 ---
